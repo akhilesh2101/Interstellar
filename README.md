@@ -1,2 +1,3 @@
-# Interstellar
-A game similar to the Atari, Inc's classic game "Asteroids" written in python
+![alt text](https://github.com/gauthamgoli/Interstellar/raw/master/gameplay.png "Start Screen")
+
+![alt text](https://github.com/gauthamgoli/Interstellar/raw/master/startscreen.png "Game play")
