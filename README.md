@@ -1,4 +1,4 @@
-This is a personal fun project i waorked on during my Undergrad back in 2016. One of the initial working application i made while learning Python.
+This is a personal fun project i worked on during my Undergrad back in 2016. One of the initial working application i made while learning Python.
 Game inspired from Asteroids made using Pygame .
 
 Attached a few screenshots from the run for reference
